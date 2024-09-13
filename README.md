@@ -3,7 +3,7 @@
 
 **Features**
 
-     1. **Resume Matching:** Compare resumes with job descriptions.
-     2. **File Support:** Works with PDF and DOCX files.
-     3. **Match Percentage:** Shows how well the resume matches the job description.
-     4. **Missing Keywords:** Highlights important keywords missing from the resume.
+ - **Resume Matching:** Compare resumes with job descriptions.
+ - **File Support:** Works with PDF and DOCX files.
+ - **Match Percentage:** Shows how well the resume matches the job description.
+ - **Missing Keywords:** Highlights important keywords missing from the resume.
