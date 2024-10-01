@@ -6,7 +6,7 @@ import PyPDF2 as pdf
 from dotenv import load_dotenv
 
 # Configure the Generative AI API
-genai.configure(api_key="AIzaSyBg3Z_B1FrKHHIaqOC0RAUQ1vD4fDmDd2U")
+genai.configure(api_key="GEMINI_API")
 
 # Set up the model configuration for text generation
 generation_config = {
